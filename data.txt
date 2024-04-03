@@ -1,0 +1,24 @@
+ID: 1
+Name: rakhi
+Age: 18
+Course: gdjhg
+City: hjlhl
+Standard: 5
+School: jhkj
+
+ID: 2
+Name: ijdk
+Age: 5
+Course: kadjlk
+City: ashdj
+Standard: 5
+School: ijdlksa
+
+ID: 3
+Name: ijskd
+Age: 5
+Course: ikasjdk
+City: kdjahsdk
+Standard: 4
+School: sakdl;j
+
